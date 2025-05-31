@@ -1,0 +1,9 @@
+# Básico - completar desde artifact .gitignore
+results/
+logs/
+*.log
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+config.env
